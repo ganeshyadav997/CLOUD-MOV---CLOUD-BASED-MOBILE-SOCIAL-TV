@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706282646530",
+    "project_id": "cloudmov-5519c",
+    "storage_bucket": "cloudmov-5519c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706282646530:android:564ff373423b54a76c8b1b",
+        "android_client_info": {
+          "package_name": "com.example.cloudmov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3O0dAeOfIug0DKOBxN9kEoJB8p4RmKk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
